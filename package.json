@@ -43,11 +43,6 @@
   "dependencies": {
     "react": "^18.2.0"
   },
-  "codegenConfig": {
-    "name": "RNSoundSpec",
-    "type": "modules",
-    "jsSrcsDir": "src"
-  },
   "react-native-builder-bob": {
     "source": "src",
     "output": "lib",
